@@ -14,7 +14,7 @@ h1 {
     background-color: silver;
     width: 30%;
     height: 150px;
-    border-radius: 10px;
+    border-radius: 14px;
     border-style: solid;
     display: inline-block;
     vertical-align: top;
@@ -24,15 +24,24 @@ h1 {
     padding: 10px 10px 10px 20px;
     width: 40px;
     border-radius: 10px;
+    position: relative; 
+    top: -10px; 
+    right: -395px;.
   }
   #header2{
     background-color: orange;
     padding: 10px 10px 10px 20px;
     width: 40px;
     border-radius: 10px;
+    position: relative; 
+    top: -10px; 
+    right: -395px;.
   }#header3{
     background-color: lightBlue;
     padding: 10px 10px 10px 20px;
     width: 40px;
     border-radius: 10px;
+    position: relative; 
+    top: -10px; 
+    right: -395px;.
   }
